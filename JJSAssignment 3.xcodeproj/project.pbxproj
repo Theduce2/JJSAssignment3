@@ -412,6 +412,7 @@
 				E0BBA42B1A9163AC00460C32 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E0BBA42C1A9163AC00460C32 /* Build configuration list for PBXNativeTarget "JJSAssignment 3Tests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +421,7 @@
 				E0BBA42E1A9163AC00460C32 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
